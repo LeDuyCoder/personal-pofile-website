@@ -111,7 +111,7 @@ function App() {
         <div className="hero-copy">
           <div className="eyebrow"><span className="availability-pulse"/> AVAILABLE FOR SELECT PROJECTS <span className="eyebrow-line"/></div>
           <p className="hero-pretitle">Independent developer <span>·</span> Vietnam</p>
-          <h1>Building digital<br/><span className="headline-accent">experiences<span className="headline-period">.</span></span></h1>
+          <h1>Hello, I’m Le Huu<br/><span className="headline-accent">Duy</span></h1>
           <div className="role-line"><span className="role-prefix">I’M A</span><motion.span key={role} className="role-current" initial={reduceMotion ? false : { opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.45 }}>{roles[role]}</motion.span><span className="role-cursor"/></div>
           <p className="hero-intro">I turn curious ideas into considered software — from the first line of code to the last little detail.</p>
           <div className="hero-actions"><a className="button button-primary" href="#work">Explore my work <ArrowDownRight size={17}/></a><a className="button button-quiet" href="#contact">Contact me <ArrowUpRight size={15}/></a></div>
