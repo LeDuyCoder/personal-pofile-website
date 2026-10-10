@@ -2,9 +2,9 @@ export const profile = {
   name: 'DuyKR',
   email: 'duylh2802@gmail.com',
   city: 'Ho Chi Minh City, VN',
-  github: 'https://github.com/',
-  facebook: 'https://facebook.com/',
-  linkedin: 'https://linkedin.com/',
+  github: 'https://github.com/LeDuyCoder',
+  facebook: 'https://www.facebook.com/le.huuduy.752/',
+  linkedin: 'https://www.linkedin.com/in/l%C3%AA-h%E1%BB%AFu-duy-duykr-1b625a297',
 }
 
 export const projects = [
