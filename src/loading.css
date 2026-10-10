@@ -1,0 +1,1 @@
+.scene-loading{position:absolute;inset:0;display:grid;place-content:center;gap:9px;text-align:center;font:8px var(--mono);letter-spacing:.12em;color:#8e849f}.scene-loading span{color:#b89ae6;animation:loading 1.3s ease-in-out infinite alternate}@keyframes loading{to{opacity:.25}}
